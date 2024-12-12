@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 7
+title: NLP for Social Networks
 description: with background image
 img: assets/img/4.jpg
 importance: 1

@@ -1,46 +1,25 @@
 ---
 layout: page
-title: project 6
+title: SC-COSMO
 description: a project with no image
-img:
+img: assets/img/SCCOSMO.png
 importance: 4
-category: fun
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The SC-COSMO modeling framework enables modeling of the epidemiology of COVID-19 for diverse populations and geographies. At its core, it is an age-structured, multi-compartment susceptible-exposed-infected-recovered (AS-MC-SEIR) model implemented in the R programming language. The model incorporates realistic demography and patterns of contacts sufficient for transmission. The model also incorporates non-pharmaceutical interventions (NPIs) (e.g., “social distancing”) timing and effects on reductions in contacts which may differ by demography. The model framework also allows for the comparison of many, future what-if scenarios and how they might impact outcomes over time and cumulatively (e.g., infections, cases, deaths, etc.). The framework can be implemented rapidly for specific populations and geographies based on generally available data from these places along with methods we have implemented to infer data elements that are unavailable (e.g., imputation and calibration).
 
     ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+   Read more aboput this
     ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/SCCOSMO.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Model Framework
 </div>
 
 You can also put regular text between your rows of images.
