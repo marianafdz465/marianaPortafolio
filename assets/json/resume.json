@@ -34,23 +34,32 @@
   ],
   "education": [
     {
+  
+      "institution": "University of Notre Dame",
+      "location": "United States, IN",
+      "area": "Second year Ph.D Student in Computer Science and Engineering",
+      "studyType": "Ph.D. in Computer Science and Engineering",
+      "startDate": "2023-02-01"   
+     },
+    {
       "institution": "Princeton University HCI",
-      "location": "United States",
-      "area": "Research Assistant",
+      "location": "United States, NY",
+      "studyType": "Student Researcher",
       "startDate": "2022-02-01",
       "endDate": "2023-02-01"
     },
     {
       "institution": "Stanford University",
-      "location": "United States",
-      "area": "Research Assistant",
+      "location": "United States, CA",
+      "studyType": "Student Researcher",
       "startDate": "2020-03-01",
       "endDate": "2021-04-01"
     },
     {
       "institution": "Universidad Autonoma de Aguascalientes",
-      "location": "Mexico",
-      "area": "Bachelor of Computer Systems Engineering",
+      "location": "Mexico, Ags",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Computer Systems Engineering ",
       "startDate": "2015-08-01",
       "endDate": "2019-12-01",
       "summary": "Graduated with honors, awarded to the top 3% of the graduating class."
