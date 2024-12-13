@@ -1,15 +1,19 @@
 ---
 layout: page
-title: VR for Team Formation 
-description: VR to Enhance Team Formation and Inclusion
+title: Team Inclusion Through Virtual Reality
+description: Manuscript under review
 img: assets/img/VRFamiliarityP1.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
-This project explores the impact of Virtual Reality (VR) on team dynamics, particularly focusing on the relationship between newcomers and established team members. By minimizing physical and social cues, VR can potentially reduce bias and promote inclusivity. Our study investigates how VR affects perceived closeness and familiarity bias within teams. We conducted a controlled experiment to compare in-person and VR settings, analyzing both quantitative and qualitative data. The findings highlight the potential of VR to enhance the onboarding experience for new team members and foster stronger team bonds.
 
-To investigate the impact of VR on team dynamics, a controlled between-subjects experiment was conducted. Participants were randomly assigned to either an in-person or VR condition, where they collaborated on a hidden-profile task. Data was collected through pre- and post-experiment surveys, measuring perceived closeness, familiarity bias, and task performance. Mixed-methods analysis, combining statistical analysis and thematic analysis, was employed to analyze the quantitative and qualitative data.
+**How Can Virtual Reality Transform Team Dynamics?**
+
+Incorporating newcomers into established teams is essential for innovation but often hindered by familiarity bias among existing members. This project examines how Virtual Reality (VR) can reshape team dynamics, focusing on whether it enhances closeness and inclusion. 
+
+We conducted a controlled between-subject experiment with 29 teams, comparing in-person (IP) interactions and VR sessions using Meta Horizon Workrooms. Teams comprised two incumbents and one newcomer, completing a collaborative hidden-profile task designed to encourage information sharing and discussion. We found that VR creates a safer, more engaging environment for newcomers, fostering a stronger sense of connection to the team. While VR did not significantly reduce incumbents’ familiarity bias, it offers valuable design insights for developing more inclusive collaborative systems. 
+
 
 <div class="row ">
     <div class="col-sm mt-6 mt-md-0">
@@ -23,7 +27,16 @@ To investigate the impact of VR on team dynamics, a controlled between-subjects 
  Experimental Conditions
 </div>
 
-Manuscript under review for CHI
+### Quantitative Results
+
+<div class="row justify-content-sm-left">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/TableVR.png" title="example image" class="img-fluid rounded z-depth-1" %}
+</div>
+<div class="caption">
+</div>
+
+
 
 {% raw %}
 

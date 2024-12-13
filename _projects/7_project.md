@@ -1,9 +1,9 @@
 ---
 layout: page
-title: NLP for Social Networks
+title: Community Detection
 description: with background image
-img: assets/img/4.jpg
-importance: 1
+img: assets/img/network.png
+importance: 3
 category: work
 related_publications: true
 ---

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: GenAI
-description: another without an image
-img:
-importance: 3
-category: work
+title: Diffusion Models 3D Reconstruction
+description: another project with an image 🎉
+img: assets/img/6.jpg
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
