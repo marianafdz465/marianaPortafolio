@@ -5,7 +5,7 @@ description: cover
 img: assets/img/npc.png
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Is Extended Reality the Next Interface for Human-AI Collaboration?

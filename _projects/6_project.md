@@ -1,8 +1,10 @@
 ---
 layout: page
 title: SC-COSMO
-description: a project with no image
+description: Coronavirus
+Simulation Model
 img: assets/img/SCCOSMO.png
+redirect: https://www.sc-cosmo.org/
 importance: 4
 category: work
 ---

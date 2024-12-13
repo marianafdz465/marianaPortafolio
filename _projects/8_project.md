@@ -2,8 +2,8 @@
 layout: page
 title: Domestic Workers in the Tech Space
 description: Manuscript under review
-img: assets/img/network.png
-importance: 3
+img: assets/img/DW.png
+importance: 6
 category: work
 related_publications: false
 ---
