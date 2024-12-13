@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Indie Platforms
-description: Exploring Independent Food Delivery Platforms in the U.S
-img: assets/img/indiePlatforms.png
+title: SC-COSMO
+description: Coronavirus Simulation Model
+img: assets/img/SCCOSMO.png
+redirect: https://www.sc-cosmo.org/
 importance: 3
 category: work
-related_publications: 
+related_publications: false 
 ---
 
 This project investigates the overlooked world of independent (“indie”) food delivery platforms beyond giants like Uber Eats and DoorDash. By analyzing data from 495 platforms and surveys from 29, we uncovered their focus on personalized service, fair rates, and community responsibility. However, technical limitations, like reliance on off-the-shelf software, hinder their growth. Our findings map the indie platform landscape, highlight their challenges, and propose opportunities for HCI research to support sustainable, locally-driven alternatives.
